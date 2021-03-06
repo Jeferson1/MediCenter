@@ -1,5 +1,6 @@
-<img src="./assets/images/logo.png" style="display: block; margin: auto;" />
-
+<p align="center">
+  <img src="./assets/images/logo.png"/>
+</p>
 ***
 <br>
 
